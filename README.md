@@ -1,1 +1,1 @@
-# Retail Management System
+# E-Commerce Management System
